@@ -3,7 +3,12 @@ A DialogFlow API based chat bot integrated to telegram. You can access the chat 
 
 **tgwh.php** is the WebHook code.
 
+
+
 # Telegram Chat Screenshots
-![Telegram Chat 1](/images/tgchat1.jpg)
-![Telegram Chat 2](/images/tgchat2.jpg)
-![Telegram Chat 3](/images/tgchat3.jpg)
+
+![Telegram Chat 1](/images/tgchat1.jpg =100x40)
+
+![Telegram Chat 2](/images/tgchat2.jpg =100x40)
+
+![Telegram Chat 3](/images/tgchat3.jpg =100x40)
