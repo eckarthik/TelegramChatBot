@@ -7,8 +7,7 @@ A DialogFlow API based chat bot integrated to telegram. You can access the chat 
 
 # Telegram Chat Screenshots
 
-![Telegram Chat 1](/images/tgchat1.jpg =100x40)
-
+![Telegram Chat 1](/images/tgchat1.jpg =100x40) <img src="/images/tgchat1.jpg"> width="100" height="200"/>
 ![Telegram Chat 2](/images/tgchat2.jpg =100x40)
 
 ![Telegram Chat 3](/images/tgchat3.jpg =100x40)
